@@ -1,0 +1,10 @@
+RM_*.*/
+db/NC_036901.1.fasta
+db/example-families.stk
+db/example.nhr
+db/example.nin
+db/example.nnd
+db/example.nni
+db/example.nog
+db/example.nsq
+db/example.translation

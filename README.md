@@ -7,3 +7,5 @@
     bash setup_env.sh
     make clean
     make
+
+See also: <https://github.com/bioconda/bioconda-recipes/issues/9988>
